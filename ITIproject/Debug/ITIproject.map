@@ -1,0 +1,901 @@
+Archive member included because of file (symbol)
+
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              ./MAP.o (__mulsi3)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./CLCD_program.o (__udivmodsi4)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./MAP.o (__divmodsi4)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./EXTI_program.o (__do_clear_bss)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./CLCD_program.o (__fixunssfsi)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./CLCD_program.o (__mulsf3)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./CLCD_program.o (__gtsf2)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./CLCD_program.o (__ltsf2)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              ./main.o (strcmp)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              ./main.o (strcpy)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+                              ./main.o (__eerd_block_m32)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_block_atmega32.o)
+                              ./main.o (__eewr_block_m32)
+f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+                              ./main.o (__eewr_byte_m32)
+
+Allocating common symbols
+Common symbol       size              file
+
+eeprom_username     0xb               ./main.o
+LDR_State           0x1               ./main.o
+option              0x1               ./main.o
+eeprom_password     0x6               ./main.o
+Reset_flag          0x1               ./main.o
+mode                0x1               ./main.o
+buzzer_flag         0x1               ./main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./ADC_program.o
+LOAD ./CLCD_program.o
+LOAD ./DIO_program.o
+LOAD ./EXTI_program.o
+LOAD ./GIE_program.o
+LOAD ./MAP.o
+LOAD ./TIMER1_PROGRAM.o
+LOAD ./TIMER_program.o
+LOAD ./USART_program.o
+LOAD ./main.o
+LOAD ./servo.o
+LOAD f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x56c6
+ *(.vectors)
+ .vectors       0x00000000       0x54 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./ADC_program.o
+ .text          0x00000092        0x0 ./CLCD_program.o
+ .text          0x00000092        0x0 ./DIO_program.o
+ .text          0x00000092        0x0 ./EXTI_program.o
+ .text          0x00000092        0x0 ./GIE_program.o
+ .text          0x00000092        0x0 ./MAP.o
+ .text          0x00000092        0x0 ./TIMER1_PROGRAM.o
+ .text          0x00000092        0x0 ./TIMER_program.o
+ .text          0x00000092        0x0 ./USART_program.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 ./servo.o
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632       0x60 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x00000632                __gtsf2
+ .text          0x00000692       0x60 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x00000692                __gesf2
+ .text          0x000006f2       0x60 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x000006f2                __ltsf2
+ .text          0x00000752       0xa8 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x00000752                __fixsfsi
+ .text          0x000007fa        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x000007fa        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x000007fa        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x000007fa      0x1aa f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x000007fa                __pack_f
+ .text          0x000009a4       0xf0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x000009a4                __unpack_f
+ .text          0x00000a94       0xb2 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000a94                __fpcmp_parts_f
+ .text          0x00000b46        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000b46        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x00000b46        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .text          0x00000b46        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_block_atmega32.o)
+ .text          0x00000b46        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+                0x00000b46                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADC_voidINIT
+                0x00000b46       0x62 ./ADC_program.o
+                0x00000b46                ADC_voidINIT
+ .text.ADC_u16GetChannelReading
+                0x00000ba8       0x6c ./ADC_program.o
+                0x00000ba8                ADC_u16GetChannelReading
+ .text.CLCD_voidSendCommand
+                0x00000c14      0x422 ./CLCD_program.o
+                0x00000c14                CLCD_voidSendCommand
+ .text.CLCD_voidSendData
+                0x00001036      0x25a ./CLCD_program.o
+                0x00001036                CLCD_voidSendData
+ .text.CLCD_voidINIT
+                0x00001290      0x64e ./CLCD_program.o
+                0x00001290                CLCD_voidINIT
+ .text.CLCD_voidSendString
+                0x000018de       0x52 ./CLCD_program.o
+                0x000018de                CLCD_voidSendString
+ .text.CLCD_voidGOTOXY
+                0x00001930       0x52 ./CLCD_program.o
+                0x00001930                CLCD_voidGOTOXY
+ .text.CLCD_voidWriteNumber
+                0x00001982      0x240 ./CLCD_program.o
+                0x00001982                CLCD_voidWriteNumber
+ .text.CLCD_clear
+                0x00001bc2       0x14 ./CLCD_program.o
+                0x00001bc2                CLCD_clear
+ .text.DIO_SetPort_Direction
+                0x00001bd6       0x82 ./DIO_program.o
+                0x00001bd6                DIO_SetPort_Direction
+ .text.DIO_SetPort_value
+                0x00001c58       0x82 ./DIO_program.o
+                0x00001c58                DIO_SetPort_value
+ .text.DIO_SetPin_Direction
+                0x00001cda      0x200 ./DIO_program.o
+                0x00001cda                DIO_SetPin_Direction
+ .text.DIO_SetPinValue
+                0x00001eda      0x200 ./DIO_program.o
+                0x00001eda                DIO_SetPinValue
+ .text.DIO_GetPinValue
+                0x000020da       0xf4 ./DIO_program.o
+                0x000020da                DIO_GetPinValue
+ .text.EXTIvoid_Enable
+                0x000021ce      0x228 ./EXTI_program.o
+                0x000021ce                EXTIvoid_Enable
+ .text.EXTIvoid_Disable
+                0x000023f6       0x6e ./EXTI_program.o
+                0x000023f6                EXTIvoid_Disable
+ .text.EXTI_Set_voidCallBackINT0
+                0x00002464       0x24 ./EXTI_program.o
+                0x00002464                EXTI_Set_voidCallBackINT0
+ .text.EXTI_Set_voidCallBackINT1
+                0x00002488       0x24 ./EXTI_program.o
+                0x00002488                EXTI_Set_voidCallBackINT1
+ .text.EXTI_Set_voidCallBackINT2
+                0x000024ac       0x24 ./EXTI_program.o
+                0x000024ac                EXTI_Set_voidCallBackINT2
+ .text.EXTI_voidClearFlag
+                0x000024d0       0x6e ./EXTI_program.o
+                0x000024d0                EXTI_voidClearFlag
+ .text.EXTI_u8GetFlag
+                0x0000253e       0x78 ./EXTI_program.o
+                0x0000253e                EXTI_u8GetFlag
+ .text.__vector_1
+                0x000025b6       0x66 ./EXTI_program.o
+                0x000025b6                __vector_1
+ .text.__vector_2
+                0x0000261c       0x66 ./EXTI_program.o
+                0x0000261c                __vector_2
+ .text.__vector_3
+                0x00002682       0x66 ./EXTI_program.o
+                0x00002682                __vector_3
+ .text.GIE_voidEnable
+                0x000026e8       0x1c ./GIE_program.o
+                0x000026e8                GIE_voidEnable
+ .text.GIE_voidDisable
+                0x00002704       0x1c ./GIE_program.o
+                0x00002704                GIE_voidDisable
+ .text.Map      0x00002720       0xfa ./MAP.o
+                0x00002720                Map
+ .text.Timer1_Fast_PWM_Init
+                0x0000281a       0x46 ./TIMER1_PROGRAM.o
+                0x0000281a                Timer1_Fast_PWM_Init
+ .text.Timer0_voidInit
+                0x00002860       0x62 ./TIMER_program.o
+                0x00002860                Timer0_voidInit
+ .text.Timer0_u8SetCallBack
+                0x000028c2       0x3a ./TIMER_program.o
+                0x000028c2                Timer0_u8SetCallBack
+ .text.Timer0_voidSetCompMatchValue
+                0x000028fc       0x1c ./TIMER_program.o
+                0x000028fc                Timer0_voidSetCompMatchValue
+ .text.Timer0_voidInterruptEnable
+                0x00002918        0xe ./TIMER_program.o
+                0x00002918                Timer0_voidInterruptEnable
+ .text.Timer0_voidSetPrescalerValue
+                0x00002926       0x32 ./TIMER_program.o
+                0x00002926                Timer0_voidSetPrescalerValue
+ .text.Timer0void_ModifyPreloadValue
+                0x00002958       0x1c ./TIMER_program.o
+                0x00002958                Timer0void_ModifyPreloadValue
+ .text.__vector_10
+                0x00002974       0x66 ./TIMER_program.o
+                0x00002974                __vector_10
+ .text.__vector_11
+                0x000029da       0x66 ./TIMER_program.o
+                0x000029da                __vector_11
+ .text.USART_voidINIT
+                0x00002a40       0x6a ./USART_program.o
+                0x00002a40                USART_voidINIT
+ .text.USART_voidSendSynhronous
+                0x00002aaa       0x34 ./USART_program.o
+                0x00002aaa                USART_voidSendSynhronous
+ .text.USART_u8ReceiveSynhronous
+                0x00002ade       0x1e ./USART_program.o
+                0x00002ade                USART_u8ReceiveSynhronous
+ .text.main     0x00002afc       0x1a ./main.o
+                0x00002afc                main
+ .text.Smart_Home_Initialization
+                0x00002b16       0x78 ./main.o
+                0x00002b16                Smart_Home_Initialization
+ .text.display_welcome
+                0x00002b8e      0x116 ./main.o
+                0x00002b8e                display_welcome
+ .text.scan_eeprom_for_users
+                0x00002ca4       0x50 ./main.o
+                0x00002ca4                scan_eeprom_for_users
+ .text.clear_eeprom
+                0x00002cf4      0x14a ./main.o
+                0x00002cf4                clear_eeprom
+ .text.get_mode_selection
+                0x00002e3e       0x42 ./main.o
+                0x00002e3e                get_mode_selection
+ .text.user_registration
+                0x00002e80      0x630 ./main.o
+                0x00002e80                user_registration
+ .text.check_username
+                0x000034b0       0x6c ./main.o
+                0x000034b0                check_username
+ .text.user_deletion
+                0x0000351c      0x436 ./main.o
+                0x0000351c                user_deletion
+ .text.user_login
+                0x00003952      0x43c ./main.o
+                0x00003952                user_login
+ .text.enable_buzzer
+                0x00003d8e       0x24 ./main.o
+                0x00003d8e                enable_buzzer
+ .text.door     0x00003db2      0x29a ./main.o
+                0x00003db2                door
+ .text.measure_temperature
+                0x0000404c       0x72 ./main.o
+                0x0000404c                measure_temperature
+ .text.fan      0x000040be       0x86 ./main.o
+                0x000040be                fan
+ .text.fan_auto_control
+                0x00004144       0xd0 ./main.o
+                0x00004144                fan_auto_control
+ .text.fan_manual_control
+                0x00004214      0x2a0 ./main.o
+                0x00004214                fan_manual_control
+ .text.control_status_menu
+                0x000044b4      0x184 ./main.o
+                0x000044b4                control_status_menu
+ .text.Control_menu
+                0x00004638      0x190 ./main.o
+                0x00004638                Control_menu
+ .text.Status_menu
+                0x000047c8      0x2f2 ./main.o
+                0x000047c8                Status_menu
+ .text.LED_Control_PWM
+                0x00004aba      0x1a8 ./main.o
+                0x00004aba                LED_Control_PWM
+ .text.manual_light
+                0x00004c62      0x184 ./main.o
+                0x00004c62                manual_light
+ .text.LDR      0x00004de6      0x1f8 ./main.o
+                0x00004de6                LDR
+ .text.Light    0x00004fde      0x180 ./main.o
+                0x00004fde                Light
+ .text.Login_menu
+                0x0000515e      0x168 ./main.o
+                0x0000515e                Login_menu
+ .text.Reset    0x000052c6       0x22 ./main.o
+                0x000052c6                Reset
+ .text.Servo_Set_Position
+                0x000052e8       0x1e ./servo.o
+                0x000052e8                Servo_Set_Position
+ .text.Servo_Open_Door
+                0x00005306      0x114 ./servo.o
+                0x00005306                Servo_Open_Door
+ .text.Servo_Close_Door
+                0x0000541a      0x114 ./servo.o
+                0x0000541a                Servo_Close_Door
+ .text.libgcc   0x0000552e       0x3e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x0000552e                __mulsi3
+ .text.libgcc   0x0000556c       0x44 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000556c                __udivmodsi4
+ .text.libgcc   0x000055b0       0x36 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x000055b0                __divmodsi4
+ .text.libgcc   0x000055e6        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000055e6        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000055e6        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000055e6       0x38 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x000055e6                __prologue_saves__
+ .text.libgcc   0x0000561e       0x36 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000561e                __epilogue_restores__
+ .text.avr-libc
+                0x00005654       0x12 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x00005654                strcmp
+ .text.avr-libc
+                0x00005666        0xe f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x00005666                strcpy
+ .text.avr-libc
+                0x00005674       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+                0x00005678                __eerd_blraw_m32
+                0x00005674                __eerd_block_m32
+ .text.avr-libc
+                0x00005694       0x14 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_block_atmega32.o)
+                0x00005694                __eewr_block_m32
+ .text.avr-libc
+                0x000056a8       0x1a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+                0x000056aa                __eewr_r18_m32
+                0x000056a8                __eewr_byte_m32
+                0x000056c2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000056c2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000056c2                exit
+                0x000056c2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000056c2        0x4 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000056c6                _etext = .
+
+.data           0x00800060      0x272 load address 0x000056c6
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./ADC_program.o
+ .data          0x00800060        0x0 ./CLCD_program.o
+ .data          0x00800060        0x0 ./DIO_program.o
+ .data          0x00800060        0x0 ./EXTI_program.o
+ .data          0x00800060        0x0 ./GIE_program.o
+ .data          0x00800060        0x0 ./MAP.o
+ .data          0x00800060        0x0 ./TIMER1_PROGRAM.o
+ .data          0x00800060        0x0 ./TIMER_program.o
+ .data          0x00800060        0x0 ./USART_program.o
+ .data          0x00800060      0x269 ./main.o
+ .data          0x008002c9        0x0 ./servo.o
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x008002c9        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x008002c9        0x8 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x008002c9                __thenan_sf
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_block_atmega32.o)
+ .data          0x008002d1        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008002d2                . = ALIGN (0x2)
+ *fill*         0x008002d1        0x1 00
+                0x008002d2                _edata = .
+                0x008002d2                PROVIDE (__data_end, .)
+
+.bss            0x008002d2       0x34
+                0x008002d2                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008002d2        0x0 ./ADC_program.o
+ .bss           0x008002d2        0x0 ./CLCD_program.o
+ .bss           0x008002d2        0x0 ./DIO_program.o
+ .bss           0x008002d2        0x0 ./EXTI_program.o
+ .bss           0x008002d2        0x0 ./GIE_program.o
+ .bss           0x008002d2        0x0 ./MAP.o
+ .bss           0x008002d2        0x0 ./TIMER1_PROGRAM.o
+ .bss           0x008002d2        0x0 ./TIMER_program.o
+ .bss           0x008002d2        0x0 ./USART_program.o
+ .bss           0x008002d2        0x0 ./main.o
+ .bss           0x008002d2        0x0 ./servo.o
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eerd_block_atmega32.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_block_atmega32.o)
+ .bss           0x008002d2        0x0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(eewr_byte_atmega32.o)
+ *(.bss*)
+ .bss.PTRtoFUNC_INT_0
+                0x008002d2        0x2 ./EXTI_program.o
+ .bss.PTRtoFUNC_INT_1
+                0x008002d4        0x2 ./EXTI_program.o
+ .bss.PTRtoFUNC_INT_2
+                0x008002d6        0x2 ./EXTI_program.o
+ .bss.TIMER0_pvCallBackFunc
+                0x008002d8        0x2 ./TIMER_program.o
+ .bss.door_status
+                0x008002da        0x1 ./main.o
+ .bss.fan_status
+                0x008002db        0x1 ./main.o
+ .bss.Light_status
+                0x008002dc        0x1 ./main.o
+ .bss.username  0x008002dd        0xb ./main.o
+                0x008002dd                username
+ .bss.password  0x008002e8        0x6 ./main.o
+                0x008002e8                password
+ .bss.index     0x008002ee        0x2 ./main.o
+                0x008002ee                index
+ *(COMMON)
+ COMMON         0x008002f0       0x16 ./main.o
+                0x008002f0                eeprom_username
+                0x008002fb                LDR_State
+                0x008002fc                option
+                0x008002fd                eeprom_password
+                0x00800303                Reset_flag
+                0x00800304                mode
+                0x00800305                buzzer_flag
+                0x00800306                PROVIDE (__bss_end, .)
+                0x000056c6                __data_load_start = LOADADDR (.data)
+                0x00005938                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800306        0x0
+                0x00800306                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800306                PROVIDE (__noinit_end, .)
+                0x00800306                _end = .
+                0x00800306                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x525c
+ *(.stab)
+ .stab          0x00000000      0x258 ./ADC_program.o
+ .stab          0x00000258      0xf60 ./CLCD_program.o
+                                0xff0 (size before relaxing)
+ .stab          0x000011b8      0x438 ./DIO_program.o
+                                0x4c8 (size before relaxing)
+ .stab          0x000015f0      0x528 ./EXTI_program.o
+                                0x5b8 (size before relaxing)
+ .stab          0x00001b18      0x144 ./GIE_program.o
+                                0x1d4 (size before relaxing)
+ .stab          0x00001c5c      0x18c ./MAP.o
+                                0x21c (size before relaxing)
+ .stab          0x00001de8      0x168 ./TIMER1_PROGRAM.o
+                                0x1f8 (size before relaxing)
+ .stab          0x00001f50      0x348 ./TIMER_program.o
+                                0x3d8 (size before relaxing)
+ .stab          0x00002298      0x240 ./USART_program.o
+                                0x2d0 (size before relaxing)
+ .stab          0x000024d8     0x2a24 ./main.o
+                               0x2c40 (size before relaxing)
+ .stab          0x00004efc      0x360 ./servo.o
+                                0x594 (size before relaxing)
+
+.stabstr        0x00000000     0x175b
+ *(.stabstr)
+ .stabstr       0x00000000     0x175b ./ADC_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x00000080       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x000000e0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000100       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x170
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x0000008c       0x1e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000aa       0x1e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000c8       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x000000e8       0x22 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x0000010a       0x1f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000129       0x21 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x0000014a       0x26 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x1c49
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x27f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x00000c2f      0x27f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x00000eae      0x27f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x0000112d      0x2b0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000013dd      0x12c f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001509      0x2df f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x000017e8      0x251 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001a39      0x210 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xeeb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x15a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000005bc      0x15a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x00000716      0x15a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000870      0x17f f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x000009ef       0xad f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000a9c      0x1c0 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000c5c      0x154 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000db0      0x13b f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xdad
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f       0xd3 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000662       0xd3 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x00000735       0xd3 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x00000808      0x109 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000911       0x90 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x000009a1      0x18a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000b2b      0x14b f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000c76      0x137 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x160
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000a0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000c0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x000000e0       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000100       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000120       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000140       0x20 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x28d
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233        0xf f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000242        0x8 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000024a        0x8 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000252        0xa f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000025c       0x16 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x00000272        0xb f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x0000027d       0x10 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x7ce
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0x3c f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000049e       0x3c f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x000004da       0x3c f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x00000516       0x7e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000594      0x13e f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x000006d2       0xac f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000077e       0x50 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(ITIproject.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 f:/engineering files/2nd computer/iti embedded training/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
